@@ -1,0 +1,51 @@
+.nav-container {
+
+    background-color: #222;
+    padding: 15px 0;
+    max-width: 25%;
+    margin: auto;
+    margin: auto;
+    
+  }
+  
+  .nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+   
+  }
+  #signin_link {
+    padding-right: 1rem;
+    text-decoration: none;
+    color: gray;
+    font-size: 1.1rem;
+  }
+  #mission_link {
+    padding-right: 1rem;
+    text-decoration: none;
+    color: gray;
+    font-size: 1.1rem;
+  }
+  #about_link {
+      padding-right: 1rem;
+    text-decoration: none;
+    color: gray;
+    font-size: 1.1rem;
+  }
+  
+  #nav-bar {
+    color: white;
+    padding-right: 1rem;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1.1rem;
+  }
+  
+  .home-start  {
+    margin-top: 2rem;
+  }
+
+  .sectionHead {
+    margin-top: 2rem;
+  }
